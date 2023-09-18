@@ -7,6 +7,6 @@
  <hr/>
  The dictionary can be customized, you can modify the path directly, if you have any questions, you can contact me
  <hr/>
- 词典可以自定义，直接修改路径即可，有什么问题可以联系我：ILOVEMAQ
+ 词典可以自定义，直接修改路径即可，有什么问题可以联系我TG：ZHANGwujii
 
 <img src="https://count.getloli.com/get/@:name" alt=":name" />
