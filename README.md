@@ -1,4 +1,4 @@
-# Tool-Gallery
+# Subdomain blasting
 <hr/>
  It can be used to blast subdomains, as well as obtain corresponding IPs, only for testing purposes, please do not use for illegal operations, thank you!
  <hr/>
